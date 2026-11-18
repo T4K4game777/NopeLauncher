@@ -1,2 +1,2 @@
 # NopeLauncher
-NopeLancher
+Lancher for Nope Client
